@@ -1,2 +1,2 @@
 # Thesis
-Data to keep for my MSc. thesis.
+Data to keep for my MSc. Thesis.
